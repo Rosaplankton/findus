@@ -18,10 +18,11 @@ the slime molds cells will join up to form a mass that that spreads to a more fa
 In this project we want to explore, if we can manipulate the slime molds growth.
 We know, that the slime mold will spread to find new food. It never takes the same way twice, so it is somehow able
 to remember where it has already been.
-![Bild Findus](images/unterordner/bild2.jpg)
 In our setup, we assume, that the hungry slime mold will follow the offered food.
-
-
+![Bild Findus](images/unterordner/bild2.jpg)
+![Bild Findus](images/findus1.png)
+![Bild Findus](images/findus2.png)
+![Bild Findus](images/findus3.png)
 ###License
 
 The MIT License (MIT)
