@@ -15,6 +15,18 @@ We know, that the slime mold will spread to find new food. It never takes the sa
 to remember where it has already been.
 In our setup, we assume, that the hungry slime mold will follow the offered food.
 ![Bild Findus](images/findus_schneckentanz.png)
+I covered a simple pasteboard box with white paper sheets andaluminum foil to improve illumination.
+To capture the development I used a [DSLR](http://gphoto.org/proj/libgphoto2/support.php) and a RaspberryPi. Many thanks to [topada](https://github.com/topada) who provides the instructions for this setup.
+[DSLR Timelapse gphoto RaspberryPi](https://github.com/topada/DSLR-Timelapse-gphoto-RPI)
+With a servomotor (from a printer) and an [Arduino uno](https://www.arduino.cc/en/Main/ArduinoBoardUno), I assembled the rotatable part.
+During the experiment, the slime mold was placed on a little disk with substrat and got, now and then, a drop of distilled water (prevents to dry out). The disk is related to the servomotor and rotates everey 5 minutes.
+The outer ring is immovable. This is where the food (mash of oat flakes) is offered (always on the same place).
+
+
+
+
+
+![Bild Findus](images/aufbau.png)
 ![Bild Findus](images/unterordner/bild2.jpg)
 ![Bild Findus](images/findus1.png)
 ![Bild Findus](images/findus2.png)
