@@ -26,11 +26,19 @@ The outer ring is immovable. This is where the food (mash of oat flakes) is offe
 
 
 
+
+![Bild Findus](images/setup_2.png)
+![Bild Findus](images/setup.png)
 ![Bild Findus](images/aufbau.png)
 ![Bild Findus](images/unterordner/bild2.jpg)
 ![Bild Findus](images/findus1.png)
 ![Bild Findus](images/findus2.png)
 ![Bild Findus](images/findus3.png)
+Unfortunately findus died before I was able to record enough pictures.
+I had a lot of problems with the storing of my photos and the connection to the raspberry pi.
+Furthermore it was really tough to keep findus alive. I think he didn't like the conditions. The motor shaked and the environment was not sufficiently humid and shady.
+He grow a little bit, but not in the assumed direction.
+ 
 ###License
 
 The MIT License (MIT)
